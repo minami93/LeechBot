@@ -3,4 +3,3 @@ aria2p
 hachoir
 Pillow
 tgcrypto
-git+git://github.com/sudoshell/youtube-dl@73400cc#youtube_dl
